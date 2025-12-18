@@ -6,6 +6,7 @@
 - Pavan Wickramasinghage
 - Hadrien Lagadec
 - Lucas Lorang
+- Victor Papin
 
 [Github Project](https://github.com/Luckuah/Big_Data_framework.git)
 
@@ -57,5 +58,5 @@ Then go to the Part_A.ipynb
   Run the containeur
 
   ```bash
-  docker run -it --name wiki-container -v "$($PWD)\stream_wiki_output:/app/wiki_spark_output" wiki-spark-stream
+  docker run -it --name wiki-container -v "./stream_wiki_output:/app/wiki_spark_output" wiki-spark-stream
   ```
