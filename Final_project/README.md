@@ -7,12 +7,11 @@
 - Hadrien Lagadec
 - Lucas Lorang
 
+[Github Project](https://github.com/Luckuah/Big_Data_framework.git)
 
 ## For the scoring part
 
-[Github Project](https://github.com/Luckuah/Big_Data_framework.git)
-
-## 📦 Installation
+### 📦 Installation
 
 1. Clone the repository:
    
