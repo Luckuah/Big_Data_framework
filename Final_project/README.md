@@ -11,7 +11,7 @@
 
 ## For the scoring part
 
-### 📦 Installation
+###  Installation
 
 1. Clone the repository:
    
