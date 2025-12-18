@@ -91,8 +91,8 @@ def stream_events():
 
             title = change.get("title", "")
             
-            #if not is_tracked_entity(title):
-            #    continue
+            if not is_tracked_entity(title):
+                continue
 
             record = {
                 "timestamp": datetime.now().isoformat(),
