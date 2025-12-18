@@ -38,6 +38,7 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
+Then go to the Part_A.ipynb
 
 ## For the streaming part
 
